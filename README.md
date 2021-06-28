@@ -1,3 +1,7 @@
+(if a file says "empty" i just wrote that to be able to upload it)
+
+
+
 Complete the implementation of your Wiki encyclopedia. You must fulfill the following requirements:
 
 Entry Page: Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry, 
